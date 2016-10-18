@@ -1,0 +1,16 @@
+# FinDEVr
+
+#### Swift Example APP
+https://github.com/neilbly/swiftrium
+
+#### Node API wrapper
+https://github.com/mxenabled/mx-atrium-node
+
+#### Express Sample App
+https://github.com/mxenabled/mx-atrium-express
+
+#### Python API wrapper
+https://github.com/phantomxc/pytrium
+
+#### Ruby API wrapper
+https://github.com/mxenabled/atrium-ruby
